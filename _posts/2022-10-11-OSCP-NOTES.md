@@ -1,3 +1,12 @@
+---
+layout: post
+title: "OSCP Notes"
+date: 2022-10-11
+categories: []
+tags: [OSCP, Pentesting, Notes]
+---
+
+
 <b>This is a mixture of my notes and other notes that I have gathered on my OSCP path.</b> 
 
 
